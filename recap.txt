@@ -1,0 +1,9 @@
+See what was changed:
+git status
+
+Add the changed/updated files to the staging area:
+git add <file_name>
+git add <file_name>
+
+Save the file using git
+git commit -m "Meaningfull commit message."
